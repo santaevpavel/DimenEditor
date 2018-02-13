@@ -26,10 +26,10 @@
 
   <extensions defaultExtensionNs="com.intellij">
     <!-- Add your extensions here -->
+      <intentionAction>
+          <className>ru.santaev.dimeneditor.EditDimenAction</className>
+          <category>Java/Declaration</category>
+      </intentionAction>
   </extensions>
-
-  <actions>
-    <!-- Add your actions here -->
-  </actions>
 
 </idea-plugin>
