@@ -1,4 +1,4 @@
-package ru.santaev.dimeneditor
+package ru.santaev.dimeneditor.action
 
 import com.intellij.codeInsight.intention.PsiElementBaseIntentionAction
 import com.intellij.openapi.editor.Editor
